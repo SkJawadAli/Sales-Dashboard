@@ -21,3 +21,7 @@ The sales dashboard in Tableau offers a comprehensive overview of sales performa
    - Users can refine their analysis using interactive filters such as start date, end date, and sorting options by zone sales and different genres. These filters empower users to drill down into specific time periods, regions, or genres of interest, facilitating targeted analysis and decision-making.
 
 Overall, the sales dashboard in Tableau offers a user-friendly interface for exploring sales data from multiple perspectives, enabling stakeholders to gain actionable insights and make informed business decisions.
+
+
+![image](https://github.com/SkJawadAli/Sales-Dashboard/assets/156049637/e1917850-4c27-4219-ad80-185b7b6a236b)
+
